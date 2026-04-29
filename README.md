@@ -1,2 +1,0 @@
-# Calulajubilacion
-Calculadora de jubilación
